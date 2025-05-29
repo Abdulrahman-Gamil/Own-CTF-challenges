@@ -11,3 +11,5 @@ I used to wonder how people even play a game like that, but then I saw some real
 
 Oh, and btw I have a feeling my brother might’ve cheated a little in his game not totally sure tho, his clock increased by 15 seconds after each move, prove me wrong
 
+Flag Format: ABDO{}
+
