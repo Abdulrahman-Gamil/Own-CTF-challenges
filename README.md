@@ -2,7 +2,7 @@
 
 ---
 
-## OSINT: **Odd Chessboard**
+## OSINT&Crypto: **Odd Chessboard**
 
 **Description:**
  My brother just told me he won his first ever chess game! he said he was still kinda confused about the piece positions they didn’t look exactly like how he learned them. At first I thought he was just messing around, until he actually showed me the chessboard!
