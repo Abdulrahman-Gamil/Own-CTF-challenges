@@ -13,3 +13,9 @@ Oh, and btw I have a feeling my brother might’ve cheated a little in his game 
 
 Flag Format: ABDO{}
 
+
+## Forensics: The Demogorgon Veil Project**
+
+As the newly appointed Keeper of the Demogorgon, I’ve embarked on a secretive mission ‎to conceal this enigmatic entity behind a cryptic veil. so I started a project embedding the ‎Demogorgon’s essence within a labyrinth of clues, accessible only through a private key. ‎the key? It’s chillin somewhere in the shadows of those lines bet you gotta squint to spot ‎it XD, only real and true fans will unravel the mystery.‎
+
+Flag Format: ABOD{}‎
