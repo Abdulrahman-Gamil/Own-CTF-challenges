@@ -4,6 +4,7 @@
 
 ## OSINT&Crypto: **Odd Chessboard**
 
+
 **Description:**
  My brother just told me he won his first ever chess game! he said he was still kinda confused about the piece positions they didn’t look exactly like how he learned them. At first I thought he was just messing around, until he actually showed me the chessboard!
 
@@ -13,6 +14,8 @@ Oh, and btw I have a feeling my brother might’ve cheated a little in his game 
 
 Flag Format: ABDO{}
 
+**Difficulty:** Hard 
+
 
 ## Forensics: **The Demogorgon Veil Project**
 
@@ -20,3 +23,5 @@ Flag Format: ABDO{}
 As the newly appointed Keeper of the Demogorgon, I’ve embarked on a secretive mission ‎to conceal this enigmatic entity behind a cryptic veil. so I started a project embedding the ‎Demogorgon’s essence within a labyrinth of clues, accessible only through a private key. ‎the key? It’s chillin somewhere in the shadows of those lines bet you gotta squint to spot ‎it XD, only real and true fans will unravel the mystery.‎
 
 Flag Format: ABDO{}‎
+
+**Difficulty:** medium 
